@@ -1,8 +1,6 @@
 # Smart-India-Hackathon-23
 Cloud-Burst prediction
 
-<a href="https://ibb.co/8MxbtrJ"><img src="https://i.ibb.co/F6YXC59/jb-4.png" alt="jb-4" border="0"></a>
-
 The uploaded data includes several files that are used for model training, testing, and validation. The files and their descriptions are as follows:
 
 **Training.ipynb**: This file contains the code used for model training.
