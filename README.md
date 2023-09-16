@@ -1,8 +1,5 @@
 # Smart-India-Hackathon-23
 Cloud-Burst prediction
-# Paper-Title: A System based on CNN and GAF for Forecasting Cloudburst Events in Uttarakhand, India
-
-This repository contains data and code for the research paper **"Integration of CNN and GAF for Monitoring/Predicting Cloudburst Events in Uttarakhand, India"**. The aim of this research is to develop an accurate and efficient method for monitoring and predicting cloudburst events in Uttarakhand, India using a combination of Convolutional Neural Network (CNN) and Gramian Angular Field (GAF).
 
 <a href="https://ibb.co/8MxbtrJ"><img src="https://i.ibb.co/F6YXC59/jb-4.png" alt="jb-4" border="0"></a>
 
